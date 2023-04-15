@@ -1,0 +1,18 @@
+/* .para1 {
+    border-radius: 7px;
+    background-color: black;
+    color: #fff;
+    padding: 5px 15px;
+}
+
+.para2 {
+    border-radius: 7px;
+    background-color: rgb(167, 164, 164);
+    padding: 5px 15px;
+} */
+
+.btnn {
+    display: flex;
+    justify-content: center;
+
+}

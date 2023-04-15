@@ -1,0 +1,30 @@
+/* .image {
+    border-radius: 20px;
+}
+
+.caption {}
+
+.caption h3 {
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+.caption p {
+    margin-top: 5px;
+    font-size: 14px;
+    color: #525252;
+}
+
+.cardStyle {
+    margin: 20px;
+    border-radius: 20px;
+} */
+
+h2,
+p {
+    text-align: center;
+}
+
+.card {
+    border: 4px solid black;
+}
